@@ -137,3 +137,7 @@
         modified:   README.md
         modified:   config/__pycache__/settings.cpython-39.pyc
 
+
+#### 6.2 Membuat superuser
+
+        modified:   README.md
