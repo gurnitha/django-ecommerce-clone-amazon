@@ -225,3 +225,9 @@
         modified:   README.md
         modified:   apps/product/apps.py
         modified:   config/settings.py
+
+
+#### 10.4 Testing
+
+        modified:   README.md
+        modified:   config/__pycache__/settings.cpython-39.pyc
