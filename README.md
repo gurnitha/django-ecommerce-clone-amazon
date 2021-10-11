@@ -71,3 +71,8 @@
         new file:   config/__pycache__/urls.cpython-39.pyc
         new file:   config/__pycache__/wsgi.cpython-39.pyc
         new file:   db.sqlite3
+
+
+#### 4.3 House keeping - Membuat copy project dalam bentun src.rar file
+
+        modified:   README.md
