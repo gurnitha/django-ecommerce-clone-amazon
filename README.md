@@ -196,3 +196,13 @@
         new file:   apps/main/templates/main/index.html
         modified:   apps/main/urls.py
         modified:   apps/main/views.py
+
+
+### --------------------------------------------------------------------
+### 10. MEMBUAT PRODUCT APP
+### --------------------------------------------------------------------
+
+
+#### 10.1 Membuat folder app dengan nama 'product' di dalam folder 'apps'
+
+        modified:   README.md
