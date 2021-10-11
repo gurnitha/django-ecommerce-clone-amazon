@@ -218,3 +218,10 @@
         new file:   apps/product/models.py
         new file:   apps/product/tests.py
         new file:   apps/product/views.py
+
+
+#### 10.3 Mencatatkan 'product' app pada product config/settings.py
+
+        modified:   README.md
+        modified:   apps/product/apps.py
+        modified:   config/settings.py
