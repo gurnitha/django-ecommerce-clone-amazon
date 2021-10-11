@@ -126,3 +126,14 @@
         modified:   README.md
         modified:   config/settings.py
 
+
+### --------------------------------------------------------------------
+### 6. DJANGO ADMIN
+### --------------------------------------------------------------------
+
+
+#### 6.1 Menjalankan migrasi untuk membuat tabel-tabel default dari django
+
+        modified:   README.md
+        modified:   config/__pycache__/settings.cpython-39.pyc
+
