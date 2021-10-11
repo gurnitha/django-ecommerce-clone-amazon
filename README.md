@@ -231,3 +231,15 @@
 
         modified:   README.md
         modified:   config/__pycache__/settings.cpython-39.pyc
+
+
+### --------------------------------------------------------------------
+### 11. MEMBUAT PRODUCT MODELS
+### --------------------------------------------------------------------
+
+
+#### 11.1 Membuat Category model
+
+        modified:   README.md
+        new file:   apps/product/migrations/0001_initial.py
+        modified:   apps/product/models.py
