@@ -113,3 +113,9 @@
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 5.6 Replace the SECRET_KEY with the SECRET_KEY variabble in .env file
+
+        modified:   README.md
+        modified:   config/settings.py
