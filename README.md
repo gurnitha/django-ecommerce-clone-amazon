@@ -158,3 +158,28 @@
         new file:   apps/main/models.py
         new file:   apps/main/tests.py
         new file:   apps/main/views.py
+
+
+#### 7.2 Register 'main' app pada config/settings.py
+
+        modified:   README.md
+        modified:   apps/main/apps.py
+        modified:   config/__pycache__/settings.cpython-39.pyc
+        modified:   config/settings.py
+
+
+### --------------------------------------------------------------------
+### 8. HALLO WORLD!
+### --------------------------------------------------------------------
+
+
+#### 8.1 Menampilkan 'Hallo World!' menggunakan HttpResponse
+
+        modified:   README.md
+        modified:   apps/main/apps.py
+        new file:   apps/main/urls.py
+        modified:   apps/main/views.py
+        modified:   config/__pycache__/settings.cpython-39.pyc
+        modified:   config/__pycache__/urls.cpython-39.pyc
+        modified:   config/settings.py
+        modified:   config/urls.py
