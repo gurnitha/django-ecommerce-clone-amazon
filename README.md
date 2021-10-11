@@ -34,3 +34,29 @@
 
         new file:   .gitignore
         new file:   README.md
+
+
+### --------------------------------------------------------------------
+### 3. REMOTE REPOSITORI
+### --------------------------------------------------------------------
+
+
+#### 3.1 Membuat remote repositori pada Github dan meng-upload files pada remote repositori
+
+        modified:   README.md
+
+
+### --------------------------------------------------------------------
+### 4. MEMBUAT DJANGO PROJECT
+### --------------------------------------------------------------------
+
+
+#### 4.1 Membuat django proyek di dalam root direktori 'src' dengan nama 'config'
+
+        modified:   README.md
+        new file:   config/__init__.py
+        new file:   config/asgi.py
+        new file:   config/settings.py
+        new file:   config/urls.py
+        new file:   config/wsgi.py
+        new file:   manage.py
