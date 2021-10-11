@@ -206,3 +206,15 @@
 #### 10.1 Membuat folder app dengan nama 'product' di dalam folder 'apps'
 
         modified:   README.md
+
+
+#### 10.2 Membuat 'product' app di dalam folder 'apps' 
+
+        modified:   README.md
+        new file:   apps/product/__init__.py
+        new file:   apps/product/admin.py
+        new file:   apps/product/apps.py
+        new file:   apps/product/migrations/__init__.py
+        new file:   apps/product/models.py
+        new file:   apps/product/tests.py
+        new file:   apps/product/views.py
