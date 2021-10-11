@@ -119,3 +119,10 @@
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 5.7 Setup database kredensial pada settings.py menggunakan variabel pada .env file
+
+        modified:   README.md
+        modified:   config/settings.py
+
