@@ -100,3 +100,10 @@
         modified:   README.md
 
         NOTE: The .env files is not seen due to it ignore by the git
+
+
+#### 5.4 Adding varables to .env file
+
+        modified:   README.md
+
+        NOTE: The .env files is not seen due to it ignore by the git
