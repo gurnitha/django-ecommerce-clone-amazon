@@ -76,3 +76,14 @@
 #### 4.3 House keeping - Membuat copy project dalam bentun src.rar file
 
         modified:   README.md
+
+
+### --------------------------------------------------------------------
+### 5. DATABASE - USING MYSQL DATABASE
+### --------------------------------------------------------------------
+
+
+#### 5.1 Create mysql database
+
+        > mysql> CREATE DATABASE django_ecommerce_clone_amazon;
+        modified:   README.md
