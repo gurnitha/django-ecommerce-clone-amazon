@@ -87,3 +87,9 @@
 
         > mysql> CREATE DATABASE django_ecommerce_clone_amazon;
         modified:   README.md
+
+
+#### 5.2 Install django-environ
+
+        (venv3932) λ python -m pip install django-environ
+        modified:   README.md
