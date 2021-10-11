@@ -93,3 +93,10 @@
 
         (venv3932) λ python -m pip install django-environ
         modified:   README.md
+
+
+#### 5.3 Create .env file
+
+        modified:   README.md
+
+        NOTE: The .env files is not seen due to it ignore by the git
