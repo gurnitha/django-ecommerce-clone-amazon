@@ -4,12 +4,12 @@
 from django.urls import path
 
 # Locals
-from apps.main.views import helloWorld
+from apps.main.views import homePage
 
 # Appname
 app_name='main'
 
 # Urlpatterns
 urlpatterns = [
-    path('', helloWorld),
+    path('', homePage, name='homePage'),
 ]

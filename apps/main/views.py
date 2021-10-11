@@ -6,5 +6,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 
-def helloWorld(request):
-	return HttpResponse("Hello World!")
+def homePage(request):
+	return render(request, 'main/index.html')

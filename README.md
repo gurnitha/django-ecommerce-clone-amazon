@@ -183,3 +183,16 @@
         modified:   config/__pycache__/urls.cpython-39.pyc
         modified:   config/settings.py
         modified:   config/urls.py
+
+
+### --------------------------------------------------------------------
+### 9. MEMBUAT HOME PAGE
+### --------------------------------------------------------------------
+
+
+### 9.1 Membuat home page mengggunakan django Templates, Views dan Urls
+
+        modified:   README.md
+        new file:   apps/main/templates/main/index.html
+        modified:   apps/main/urls.py
+        modified:   apps/main/views.py
