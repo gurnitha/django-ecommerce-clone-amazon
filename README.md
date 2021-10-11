@@ -60,3 +60,14 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+
+#### 4.2 Menjalankan server untuk melihat tampilan proyek
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   config/__pycache__/__init__.cpython-39.pyc
+        new file:   config/__pycache__/settings.cpython-39.pyc
+        new file:   config/__pycache__/urls.cpython-39.pyc
+        new file:   config/__pycache__/wsgi.cpython-39.pyc
+        new file:   db.sqlite3
