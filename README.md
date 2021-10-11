@@ -141,3 +141,20 @@
 #### 6.2 Membuat superuser
 
         modified:   README.md
+
+
+### --------------------------------------------------------------------
+### 7. DJANGO APP - main
+### --------------------------------------------------------------------
+
+
+#### 7.1 Membuat django app dengan nama 'main' di dalam folder apps
+
+        modified:   README.md
+        new file:   apps/main/__init__.py
+        new file:   apps/main/admin.py
+        new file:   apps/main/apps.py
+        new file:   apps/main/migrations/__init__.py
+        new file:   apps/main/models.py
+        new file:   apps/main/tests.py
+        new file:   apps/main/views.py
