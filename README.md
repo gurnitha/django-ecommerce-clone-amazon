@@ -277,3 +277,15 @@
 
         modified:   README.md
         modified:   apps/product/admin.py
+
+
+### --------------------------------------------------------------------
+### 13. MEMBUAT RELATIONSHIP Category and SubCategory models
+### --------------------------------------------------------------------
+
+
+#### 13.1 Membuat relationship OneToMany antara Category dan SubCategory models
+
+        modified:   README.md
+        new file:   apps/product/migrations/0003_subcategory_category_id.py
+        modified:   apps/product/models.py

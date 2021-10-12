@@ -41,6 +41,17 @@ class Category(models.Model):
 # class name:SubCategory
 class SubCategory(models.Model):
     id=models.AutoField(primary_key=True)
+    '''Field category_id membuat hubungan/relationship antara
+    Category dan SubCategory models.
+    Dalam hal ini sebuah Category product boleh memiliki
+    nol, satu, atau lebih SubCategory product.
+    Atau paling tidak satu SubCategory product 
+    merupakan bagian dari Category.
+    '''
+    category_id=models.ForeignKey(
+        Category,
+        on_delete=models.CASCADE,
+        help_text='Klik untuk memilih satu kategori.')
     title=models.CharField(
         max_length=255, 
         blank=False,
