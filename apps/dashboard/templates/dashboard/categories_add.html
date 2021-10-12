@@ -1,0 +1,114 @@
+<!-- apps/dashboard/templates/dashboard/categories_add.html -->
+
+{% extends 'dashboard/base.html' %}
+{% load static %}
+
+<!-- Blok title -->
+{% block title %}
+Dashboard | Home
+{% endblock title %}
+<!-- END Blok title -->
+
+<!-- Block custome css -->
+{% block custom_css %}
+{% endblock custom_css %}
+<!-- END Block custome css -->
+
+<!-- Block page title -->
+{% block page_title %}
+Dashboard--------
+{% endblock page_title %}
+<!-- END Block page title -->
+
+<!-- Block main content -->
+{% block main_content %}
+                <div class="main-content">
+                    <section class="section">
+
+                        <!-- Page title -->
+                        <div class="section-header">
+                            <h1>
+                                Category Create
+                            </h1>
+                        </div>
+                        <!-- END Page title  -->
+                        <!-- Messages for error or success -->
+                        <!-- END Messages for error or success  -->
+
+                        <!-- Main page content -->
+                        <div class="row">
+                            <div class="col-12 col-md-12 col-lg-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h4>Categories</h4>
+                                    </div>
+                                    <div class="card-body col-8 col-md-8 col-lg-8">
+                                        <form method="POST" enctype="multipart/form-data">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="QD7pGhMdLnAlHvmJkP4h4pkhjAMDN7YGbfY1BcxxhLaJJYJZO2gdrOE3FtEzFnbA">
+                                            <div class="form-group">
+                                                <label>Title</label>
+                                                <input 
+                                                    type="text" 
+                                                    name="title"  
+                                                    id="title" 
+                                                    class="form-control">
+                                                <!-- Showing error message -->
+                                            </div>
+                                            <div class="form-group">
+                                                <label>Url slug</label>
+                                                <input 
+                                                    type="text" 
+                                                    name="url_slug"  
+                                                    id="url_slug" 
+                                                    class="form-control">
+                                                <!-- Showing error message -->
+                                            </div>
+                                            <div class="form-group">
+                                                <label>Thumbnail</label>
+                                                <input 
+                                                    type="file" 
+                                                    name="thumbnail"  
+                                                    id="thumbnail" 
+                                                    class="form-control">
+                                                <!-- Showing error message -->
+                                            </div>
+                                            <div class="form-group">
+                                                <label>Description</label>
+                                                <input 
+                                                    type="" 
+                                                    name="description"  
+                                                    id="description" 
+                                                    class="form-control">
+                                                <!-- Showing error message -->
+                                            </div>
+                                            <div class="form-group">
+                                                <label>Is active</label>
+                                                <input 
+                                                    type="number" 
+                                                    name="is_active"  
+                                                    id="is_active" 
+                                                    class="form-control">
+                                                <!-- Showing error message -->
+                                            </div>
+                                            <button 
+                                                type="submit"
+                                                class="btn btn-primary btn-block">Save Category</button><br>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END Main page content  -->
+
+                    </section>
+                </div>
+{% endblock main_content %}
+<!-- END Block main content -->
+
+<!-- Block custome js -->
+{% block custom_js %}
+
+{% endblock custom_js %}
+<!-- END Block custome js -->
+
+
