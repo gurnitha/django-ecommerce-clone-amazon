@@ -4,7 +4,7 @@
 from django.urls import path
 
 # Locals
-from apps.dashboard.views import homePage
+from apps.dashboard.views import homePage, categoriesPage
 
 # appname
 app_name = 'dashboard'
@@ -14,6 +14,7 @@ urlpatterns = [
 
     # Path for dashboar app
     path('dashboard/', homePage, name='homePage'),
+    path('dashboard/categories/', categoriesPage, name='categoriesPage'),
     
 ]
 
