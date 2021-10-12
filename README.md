@@ -403,3 +403,13 @@
 
         modified:   README.md
         new file:   apps/dashboard/static/css/styles.css
+
+
+#### 17.3 Membuat path untuk static files
+
+        modified:   README.md
+        modified:   config/__pycache__/settings.cpython-39.pyc
+        modified:   config/__pycache__/urls.cpython-39.pyc
+        modified:   config/settings.py
+        modified:   config/urls.py
+
