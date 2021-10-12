@@ -471,4 +471,11 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         modified:   apps/dashboard/templates/dashboard/home_page.html
 
 
+#### 18.4 Loading static files
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
+
+
+
 
