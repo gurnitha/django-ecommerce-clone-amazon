@@ -397,3 +397,9 @@
 #### 17.1 Menambahkan static direktori 'static/css'
 
         modified:   README.md
+
+
+#### 17.2 Membuat file styles.css (static/css/styles.css)
+
+        modified:   README.md
+        new file:   apps/dashboard/static/css/styles.css
