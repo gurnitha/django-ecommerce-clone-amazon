@@ -243,3 +243,9 @@
         modified:   README.md
         new file:   apps/product/migrations/0001_initial.py
         modified:   apps/product/models.py
+
+
+#### 11.2 Mencatatkan Category model pada product/admin.py 
+
+        modified:   README.md
+        modified:   apps/product/admin.py
