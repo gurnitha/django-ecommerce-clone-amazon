@@ -322,7 +322,7 @@
 
 
 ### --------------------------------------------------------------------
-### 15. MEMBUAT HALAMAN DASHBOARD
+### 15. MEMBUAT HALAMAN DASHBOARD BASICS
 ### --------------------------------------------------------------------
 
 
@@ -382,3 +382,8 @@
         modified:   README.md
         modified:   apps/dashboard/templates/dashboard/home_page.html
         modified:   apps/main/templates/main/index.html
+
+
+#### 16.2 Hoese keeping - modifikasi poin 15
+
+        modified:   README.md
