@@ -353,3 +353,12 @@
 
         modified:   README.md
         new file:   apps/dashboard/urls.py
+
+
+#### 15.6 Tesing - jalankan server
+
+        modified:   README.md
+
+        NOTE: Error: Page not found
+
+        NEXT: Fixing the error
