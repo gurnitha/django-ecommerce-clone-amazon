@@ -520,3 +520,15 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         new file:   apps/dashboard/templates/dashboard/_shared/navbar.html
         new file:   apps/dashboard/templates/dashboard/_shared/sidebar.html
         modified:   apps/dashboard/templates/dashboard/base.html
+
+
+### --------------------------------------------------------------------
+### 21. BUILDING DASHBOARD PAGES - CATEGORIES PAGE
+### --------------------------------------------------------------------
+
+
+#### 21.1 Create categories page Part 1 - Templages
+
+        modified:   README.md
+        new file:   apps/dashboard/templates/dashboard/categorires.html
+
