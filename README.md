@@ -330,3 +330,8 @@
 
         modified:   README.md
 
+
+#### 15.2 Membuat file home_page.html
+
+        modified:   README.md
+        new file:   apps/dashboard/templates/dashboard/home_page.html
