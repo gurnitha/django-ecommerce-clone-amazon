@@ -413,3 +413,9 @@
         modified:   config/settings.py
         modified:   config/urls.py
 
+
+#### 17.4 Loading static files
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
+        modified:   apps/main/templates/main/index.html
