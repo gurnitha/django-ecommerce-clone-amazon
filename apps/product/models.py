@@ -28,6 +28,11 @@ class Category(models.Model):
     	default=1,
     	help_text='Field ini bila nilainya lain selain 1, berarti tidak aktif.')
 
+    # Meta class dipakai untuk membuat nama category dalam bentuk tunggal dan jamak
+    class Meta:
+        verbose_name = 'category'
+        verbose_name_plural = 'categories'
+
     # String method untuk mendisplai category title pada admin
     def __str__(self):
         return self.title 

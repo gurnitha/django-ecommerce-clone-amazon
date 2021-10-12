@@ -249,3 +249,9 @@
 
         modified:   README.md
         modified:   apps/product/admin.py
+
+
+#### 11.3 Menambahkan Meta class pada Category model
+
+        modified:   README.md
+        modified:   apps/product/models.py
