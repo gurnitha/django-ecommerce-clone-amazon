@@ -347,3 +347,9 @@
 
         modified:   README.md
         modified:   apps/dashboard/views.py 
+
+
+#### 15.5 Membuat urls atau route
+
+        modified:   README.md
+        new file:   apps/dashboard/urls.py
