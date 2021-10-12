@@ -10,3 +10,8 @@ from django.shortcuts import render
 # View method name:homePage
 def homePage(request):
 	return render(request, 'dashboard/index.html')
+
+
+# View method name:categoriesPage
+def categoriesPage(request):
+	return render(request, 'dashboard/categories.html')
