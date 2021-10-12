@@ -17,6 +17,6 @@ def categoriesPage(request):
 	return render(request, 'dashboard/categories.html')
 
 
-# View method name:categoriesAddPage
-def categoriesAddPage(request):
-	return render(request, 'dashboard/categories_add.html')
+# View method name:categoriesCreatePage
+def categoriesCreatePage(request):
+	return render(request, 'dashboard/categories_create.html')
