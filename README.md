@@ -271,3 +271,9 @@
 
         modified:   README.md
         modified:   apps/product/models.py
+
+
+#### 12.2 Mencatatkan SubCategory model pada product/admin.py 
+
+        modified:   README.md
+        modified:   apps/product/admin.py
