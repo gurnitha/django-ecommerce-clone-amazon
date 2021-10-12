@@ -234,7 +234,7 @@
 
 
 ### --------------------------------------------------------------------
-### 11. MEMBUAT PRODUCT MODELS
+### 11. MEMBUAT PRODUCT MODELS: Category
 ### --------------------------------------------------------------------
 
 
@@ -255,3 +255,9 @@
 
         modified:   README.md
         modified:   apps/product/models.py
+
+
+#### 11.4 House keeping - modifikasi readme file
+
+        modified:   README.md
+
