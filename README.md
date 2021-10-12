@@ -335,3 +335,9 @@
 
         modified:   README.md
         new file:   apps/dashboard/templates/dashboard/home_page.html
+
+
+#### 15.3 Mengisi basic html template untuk home_page
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
