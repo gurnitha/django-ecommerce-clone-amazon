@@ -489,3 +489,8 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         new file:   apps/dashboard/templates/dashboard/base.html 
 
 
+#### 19.2 Template inheritance - Extends base.html template to dashboard page
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
+
