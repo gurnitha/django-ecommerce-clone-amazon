@@ -507,3 +507,8 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         new file:   apps/dashboard/templates/dashboard/index.html
         modified:   apps/dashboard/views.py
 
+
+#### 20.2 Use template inheritance to create dashboard page
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/index.html
