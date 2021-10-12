@@ -1,5 +1,6 @@
 ### MEMBUAT ECOMMERCE 'CLONE AMAZON' DENGAN MENGGUNAKAN DJANGO VERSI 3.2
 
+Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
 ### --------------------------------------------------------------------
 ### 1. PRA-SYARAT
@@ -44,6 +45,7 @@
 #### 3.1 Membuat remote repositori pada Github dan meng-upload files pada remote repositori
 
         modified:   README.md
+        Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
 
 ### --------------------------------------------------------------------
@@ -419,3 +421,8 @@
         modified:   README.md
         modified:   apps/dashboard/templates/dashboard/home_page.html
         modified:   apps/main/templates/main/index.html
+
+
+#### 17.5 House keeping - Modifikasi Readme, membuat repositori di Github dan unggah files ke repositori tsb 
+
+        modified:   README.md
