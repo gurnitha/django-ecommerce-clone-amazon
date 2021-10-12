@@ -387,3 +387,13 @@
 #### 16.2 Hoese keeping - modifikasi poin 15
 
         modified:   README.md
+
+
+### --------------------------------------------------------------------
+### 17. STATIC FILES
+### --------------------------------------------------------------------
+
+
+#### 17.1 Menambahkan static direktori 'static/css'
+
+        modified:   README.md
