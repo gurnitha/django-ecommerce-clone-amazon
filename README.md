@@ -465,4 +465,10 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         deleted:    apps/dashboard/static/css/styles.css
 
 
+#### 18.3 Menambahkan html template untuk dashboard home page
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
+
+
 
