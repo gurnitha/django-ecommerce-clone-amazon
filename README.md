@@ -452,3 +452,17 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 #### 18.1 House keeping - Modified README.md file
 
         modified:   README.md
+
+
+#### 18.2 Menambahkan assets files pada static files
+
+        modified:   README.md
+
+        new file:   apps/dashboard/static/assets/js/page/modules-ion-icons.js
+        ...
+        new file:   apps/dashboard/static/assets/js/scripts.js
+        new file:   apps/dashboard/static/assets/js/stisla.js
+        deleted:    apps/dashboard/static/css/styles.css
+
+
+
