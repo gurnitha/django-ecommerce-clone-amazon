@@ -311,3 +311,11 @@
         new file:   apps/dashboard/models.py
         new file:   apps/dashboard/tests.py
         new file:   apps/dashboard/views.py
+
+
+#### 14.3 Mencatatkan app 'dashboard' pada project 'config/settings.py' 
+
+        modified:   README.md
+        modified:   apps/dashboard/apps.py
+        modified:   config/__pycache__/settings.cpython-39.pyc
+        modified:   config/settings.py
