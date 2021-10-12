@@ -512,3 +512,11 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
         modified:   README.md
         modified:   apps/dashboard/templates/dashboard/index.html
+
+
+#### 20.3 Sagmentasi base template menggunakan include
+
+        modified:   README.md
+        new file:   apps/dashboard/templates/dashboard/_shared/navbar.html
+        new file:   apps/dashboard/templates/dashboard/_shared/sidebar.html
+        modified:   apps/dashboard/templates/dashboard/base.html
