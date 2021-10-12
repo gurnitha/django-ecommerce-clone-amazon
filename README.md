@@ -2,6 +2,12 @@
 
 Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
+
+
+### ============================BASICS==================================
+
+
+
 ### --------------------------------------------------------------------
 ### 1. PRA-SYARAT
 ### --------------------------------------------------------------------
@@ -235,6 +241,10 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         modified:   config/__pycache__/settings.cpython-39.pyc
 
 
+        
+### =========================INTERMEDIATE===============================
+
+
 ### --------------------------------------------------------------------
 ### 11. MEMBUAT PRODUCT MODELS: Category
 ### --------------------------------------------------------------------
@@ -424,5 +434,21 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
 
 #### 17.5 House keeping - Modifikasi Readme, membuat repositori di Github dan unggah files ke repositori tsb 
+
+        modified:   README.md
+
+
+
+
+### ==============================ADVANCE===============================
+
+
+
+### --------------------------------------------------------------------
+### 18. BUILDING DASHBOARD PAGES
+### --------------------------------------------------------------------
+
+
+#### 18.1 House keeping - Modified README.md file
 
         modified:   README.md
