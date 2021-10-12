@@ -319,3 +319,14 @@
         modified:   apps/dashboard/apps.py
         modified:   config/__pycache__/settings.cpython-39.pyc
         modified:   config/settings.py
+
+
+### --------------------------------------------------------------------
+### 15. MEMBUAT HALAMAN DASHBOARD
+### --------------------------------------------------------------------
+
+
+#### 15.1 Membuat folder templates
+
+        modified:   README.md
+
