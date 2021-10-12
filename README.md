@@ -478,4 +478,14 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
 
 
+### --------------------------------------------------------------------
+### 19. BUILDING DASHBOARD PAGES - BASE TEMPLATE
+### --------------------------------------------------------------------
+
+
+#### 19.1 Creating base.html template
+
+        modified:   README.md
+        new file:   apps/dashboard/templates/dashboard/base.html 
+
 
