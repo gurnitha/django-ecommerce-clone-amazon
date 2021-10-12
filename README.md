@@ -299,3 +299,15 @@
 #### 14.1 Membuat folder 'dashboard'
 
         modified:   README.md
+
+
+#### 14.2 Membuat app dengan nama 'dashboard' di dalam folder 'apps'
+
+        modified:   README.md
+        new file:   apps/dashboard/__init__.py
+        new file:   apps/dashboard/admin.py
+        new file:   apps/dashboard/apps.py
+        new file:   apps/dashboard/migrations/__init__.py
+        new file:   apps/dashboard/models.py
+        new file:   apps/dashboard/tests.py
+        new file:   apps/dashboard/views.py
