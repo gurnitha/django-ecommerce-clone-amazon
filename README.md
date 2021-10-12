@@ -289,3 +289,13 @@
         modified:   README.md
         new file:   apps/product/migrations/0003_subcategory_category_id.py
         modified:   apps/product/models.py
+
+
+### --------------------------------------------------------------------
+### 14. MEMBUAT DJANGO APP - dashboard
+### --------------------------------------------------------------------
+
+
+#### 14.1 Membuat folder 'dashboard'
+
+        modified:   README.md
