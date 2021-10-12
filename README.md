@@ -261,3 +261,13 @@
 
         modified:   README.md
 
+
+### --------------------------------------------------------------------
+### 12. MEMBUAT PRODUCT MODELS: SubCategory
+### --------------------------------------------------------------------
+
+
+#### 12.1 Membuat SubCategory model
+
+        modified:   README.md
+        modified:   apps/product/models.py
