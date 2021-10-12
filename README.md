@@ -370,3 +370,15 @@
         modified:   apps/dashboard/urls.py
         modified:   config/__pycache__/urls.cpython-39.pyc
         modified:   config/urls.py
+
+
+### --------------------------------------------------------------------
+### 16. MEMBUAT TAUTAN
+### --------------------------------------------------------------------
+
+
+#### 16.1 Mentaukan/menghubungkan index.html (main home page) dengan dashboard home page
+
+        modified:   README.md
+        modified:   apps/dashboard/templates/dashboard/home_page.html
+        modified:   apps/main/templates/main/index.html
