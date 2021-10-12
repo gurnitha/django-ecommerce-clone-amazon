@@ -4,7 +4,7 @@
 from django.urls import path
 
 # Locals
-from apps.dashbaord.views import homePage
+from apps.dashboard.views import homePage
 
 # appname
 app_name = 'dashboard'

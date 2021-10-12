@@ -362,3 +362,11 @@
         NOTE: Error: Page not found
 
         NEXT: Fixing the error
+
+
+#### 15.7 Fixing error - Register dashboard/urls.py pada config/urls.py
+
+        modified:   README.md
+        modified:   apps/dashboard/urls.py
+        modified:   config/__pycache__/urls.cpython-39.pyc
+        modified:   config/urls.py
