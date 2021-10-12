@@ -37,10 +37,11 @@
                                 <li 
                                     class="
                                     ">
+                                    <!-- http://127.0.0.1:8000/dashboard/categories/ -->
                                     <a 
                                         class="nav-link" 
-                                        href="/dashboard/categories/">
-                                    All categories
+                                        href="{% url 'dashboard:categoriesPage' %}">
+                                        All categories
                                     </a>
                                 </li>
                                 <!-- Applying the path parameter -->
@@ -48,7 +49,7 @@
                                     <a 
                                         class="nav-link" 
                                         href="/dashboard/categories/create/">
-                                    Add category
+                                        Add category
                                     </a>
                                 </li>
                             </ul>
