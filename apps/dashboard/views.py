@@ -9,4 +9,4 @@ from django.shortcuts import render
 
 # View method name:homePage
 def homePage(request):
-	return render(request, 'dashboard/home_page.html')
+	return render(request, 'dashboard/index.html')

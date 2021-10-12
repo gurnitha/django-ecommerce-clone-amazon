@@ -494,3 +494,16 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
         modified:   README.md
         modified:   apps/dashboard/templates/dashboard/home_page.html
 
+
+### --------------------------------------------------------------------
+### 20. BUILDING DASHBOARD PAGES - DASHBOARD PAGE
+### --------------------------------------------------------------------
+
+
+#### 20.1 Re-name file home_page.html menjadi index.html
+
+        modified:   README.md
+        deleted:    apps/dashboard/templates/dashboard/home_page.html
+        new file:   apps/dashboard/templates/dashboard/index.html
+        modified:   apps/dashboard/views.py
+
