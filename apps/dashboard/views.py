@@ -15,3 +15,8 @@ def homePage(request):
 # View method name:categoriesPage
 def categoriesPage(request):
 	return render(request, 'dashboard/categories.html')
+
+
+# View method name:categoriesAddPage
+def categoriesAddPage(request):
+	return render(request, 'dashboard/categories_add.html')

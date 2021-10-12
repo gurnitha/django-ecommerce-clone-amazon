@@ -561,3 +561,9 @@ Github: https://github.com/gurnitha/django-ecommerce-clone-amazon
 
         modified:   README.md
         new file:   apps/dashboard/templates/dashboard/categories_add.html
+
+
+#### 22.2 Create add categories page Part 2 - Views
+
+        modified:   README.md
+        modified:   apps/dashboard/views.py
