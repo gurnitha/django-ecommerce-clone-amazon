@@ -341,3 +341,9 @@
 
         modified:   README.md
         modified:   apps/dashboard/templates/dashboard/home_page.html
+
+
+#### 15.4 Membuat homePage Views
+
+        modified:   README.md
+        modified:   apps/dashboard/views.py 
